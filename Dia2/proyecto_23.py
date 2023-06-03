@@ -4,6 +4,7 @@
 - Hazael Flores
 
 """
+print("\nEste es un calculador de comisiones del 13%\n")
 
 nombre = (input("Como te llamas?: "))
 dinero = input("Cuanto dinero has ganado en el ultimo mes?: ")
