@@ -1,6 +1,7 @@
 """
 
 30. Propiedades de String
+- Hazael Flores
 
 """
 

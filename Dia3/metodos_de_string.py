@@ -1,6 +1,7 @@
 """
 
 29. Conversiones entre diferentes tipos de datos
+- Hazael Flores
 
 """
 

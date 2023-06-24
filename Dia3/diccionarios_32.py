@@ -1,6 +1,7 @@
 """
 
 32. diccionarios
+- Hazael Flores
 
 """
 
