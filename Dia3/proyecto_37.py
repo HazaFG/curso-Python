@@ -33,8 +33,6 @@ texto. Esta parte puede ser algo complicada de imaginársela, pero te voy a dar 
 puedes usar booleanos para hacer tu averiguación y un diccionario para encontrar la
 manera de expresarle al usuario tu respuesta.
 
-
-
 """
 
 print("\n------------------------------------ PROYECTO DIA 3 -------------------------------------------- ")
